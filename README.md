@@ -65,5 +65,5 @@ The E-Learning Platform UI is a modern and intuitive front-end template built to
 
 # OUTPUT - 
 
-
+![Image](https://github.com/user-attachments/assets/b7dc6e08-f2db-4ab1-9703-0bbd098b8cd5)
 
